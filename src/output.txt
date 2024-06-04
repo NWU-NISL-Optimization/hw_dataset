@@ -1,0 +1,59 @@
+Result: Write a complex C language program:
+
+\begin{code}
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+    int i;
+    int j;
+    int k;
+    int l;
+    int m;
+    int n;
+    int o;
+    int p;
+    int q;
+    int r;
+    int s;
+    int t;
+    int u;
+    int v;
+    int w;
+    int x;
+    int y;
+    int z;
+
+    for (i = 0; i < 10; i++)
+    {
+        for (j = 0; j < 10; j++)
+        {
+            for (k = 0; k < 10; k++)
+            {
+                for (l = 0; l < 10; l++)
+                {
+                    for (m = 0; m < 10; m++)
+                    {
+                        for (n = 0; n < 10; n++)
+                        {
+                            for (o = 0; o < 10; o++)
+                            {
+                                for (p = 0; p < 10; p++)
+                                {
+                                    for (q = 0; q < 10; q++)
+                                    {
+                                        for (r = 0; r < 10; r++)
+                                        {
+                                            for (s = 0; s < 10; s++)
+                                            {
+                                                for (t = 0; t < 10; t++)
+                                                {
+                                                    for (u = 0; u < 10; u++)
+                                                    {
+                                                        for (v = 0; v < 10; v++)
+                                                        {
+                                                            for (w = 0; w < 10; w++)
+                                                            {
+                                                                for (x = 0; x < 10; x++)
+
